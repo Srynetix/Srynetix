@@ -3,6 +3,8 @@
 I am **Denis BOURGE**, a 27 year old developer who fell in love with development while I was in school.
 I love making games and system stuff, open-source if possible.
 
+I am currently as **Lead Developer** at [@sharingcloud](https://github.com/sharingcloud/).
+
 Here you can find my public projects organized by categories.
 
 ### Game development
