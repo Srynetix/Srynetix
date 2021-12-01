@@ -44,4 +44,5 @@ Here you can find my public projects organized by categories, from most recent t
 
 ### Exercises
 
+- [adventofcode2021](https://github.com/Srynetix/adventofcode2021) (*Rust*): Advent of Code 2021, in Rust 🦀.
 - [adventofcode2020](https://github.com/Srynetix/adventofcode2020) (*Rust*): Advent of Code 2020, in Rust 🦀.
