@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I am **Denis BOURGE**, a 27 year old developer who fell in love with development while I was in school.
+I am **Denis BOURGE**, a 28 year old developer who fell in love with development while I was in school.
 I love making games and system stuff, open-source if possible.
 
 I am currently **Lead Developer** at [@sharingcloud](https://github.com/sharingcloud/).
@@ -22,13 +22,14 @@ Here you can find my public projects organized by categories, from most recent t
 
 #### Games
 
-- [ludumdare49](https://github.com/Srynetix/ludumdare49) (*C#*): My submission for the Ludum Dare #49.
+- [ludumdare50](https://github.com/Srynetix/ludumdare50) (*C#*): My submission for the Ludum Dare #50: **Time Lab**.
+- [ludumdare49](https://github.com/Srynetix/ludumdare49) (*C#*): My submission for the Ludum Dare #49: **Don't drop it!**.
 - [unknown-car-game](https://github.com/Srynetix/unknown-car-game) (*C#*): Simple car game where you go fast!
-- [ludumdare48](https://github.com/Srynetix/ludumdare48) (*C#*): My submission for the Ludum Dare #48.
+- [ludumdare48](https://github.com/Srynetix/ludumdare48) (*C#*): My submission for the Ludum Dare #48: **Deep Space Beat**.
 - [godot-nature-of-code](https://github.com/Srynetix/godot-nature-of-code) (*C#*): Nature of Code examples and exercises implemented with Godot.
 - [sc-space-shooter](https://github.com/Srynetix/sc-space-shooter) (*C#*): Simple space shooter game.
-- [ludumdare45](https://github.com/Srynetix/ludumdare45) (*GDScript*): My submission for the Ludum Dare #45.
-- [gwj2-recursive-quest](https://github.com/Srynetix/gwj2-recursive-quest) (*GDScript*): My submission for the Godot Wild Jam #2.
+- [ludumdare45](https://github.com/Srynetix/ludumdare45) (*GDScript*): My submission for the Ludum Dare #45: **Loading...**.
+- [gwj2-recursive-quest](https://github.com/Srynetix/gwj2-recursive-quest) (*GDScript*): My submission for the Godot Wild Jam #2: **Recursive Quest**.
 - [osef-fish](https://github.com/Srynetix/osef-fish) (*GDScript*): A super-simple "Flappy Bird" game.
 - [air-osef](https://github.com/Srynetix/air-osef) (*GDScript*): A super-simple air hockey game.
 
