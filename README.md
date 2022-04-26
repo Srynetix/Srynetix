@@ -22,8 +22,8 @@ Here you can find my public projects organized by categories, from most recent t
 
 #### Games
 
-- [ludumdare50](https://github.com/Srynetix/ludumdare50) (*C#*): My submission for the Ludum Dare #50: **Time Lab**.
-- [ludumdare49](https://github.com/Srynetix/ludumdare49) (*C#*): My submission for the Ludum Dare #49: **Don't drop it!**.
+- [time-lab](https://github.com/Srynetix/ludumdare50) (*C#*): My submission for the Ludum Dare #50: **Time Lab**.
+- [dont-drop-it](https://github.com/Srynetix/ludumdare49) (*C#*): My submission for the Ludum Dare #49: **Don't drop it!**.
 - [unknown-car-game](https://github.com/Srynetix/unknown-car-game) (*C#*): Simple car game where you go fast!
 - [ludumdare48](https://github.com/Srynetix/ludumdare48) (*C#*): My submission for the Ludum Dare #48: **Deep Space Beat**.
 - [godot-nature-of-code](https://github.com/Srynetix/godot-nature-of-code) (*C#*): Nature of Code examples and exercises implemented with Godot.
